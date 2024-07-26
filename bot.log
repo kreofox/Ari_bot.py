@@ -1,0 +1,476 @@
+2024-07-22 21:52:58,734 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 21:53:14,779 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 21:54:42,249 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 21:54:42,249 - INFO - logging in using static token
+2024-07-22 21:54:43,630 - INFO - Shard ID None has connected to Gateway (Session ID: 22115260348e800a7ec0a6c29104d896).
+2024-07-22 22:06:16,375 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "i" is not found
+2024-07-22 22:13:13,850 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:13:13,851 - INFO - logging in using static token
+2024-07-22 22:13:15,499 - INFO - Shard ID None has connected to Gateway (Session ID: e4c13d70a18851caf46b93ff578f3b9d).
+2024-07-22 22:13:23,928 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:14:00,092 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:17:02,539 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:17:02,540 - INFO - logging in using static token
+2024-07-22 22:17:03,982 - INFO - Shard ID None has connected to Gateway (Session ID: a00fece2463ab481564df68d0fc4ca93).
+2024-07-22 22:17:09,997 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "i" is not found
+2024-07-22 22:19:29,263 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:19:29,264 - INFO - logging in using static token
+2024-07-22 22:19:30,879 - INFO - Shard ID None has connected to Gateway (Session ID: cf614d49f831c83e6cc68dd88645a4f4).
+2024-07-22 22:20:54,188 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:20:54,188 - INFO - logging in using static token
+2024-07-22 22:20:55,530 - INFO - Shard ID None has connected to Gateway (Session ID: f46e2c7541eaf82050020952626b0fe5).
+2024-07-22 22:21:03,790 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "а" is not found
+2024-07-22 22:22:46,499 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:22:46,500 - INFO - logging in using static token
+2024-07-22 22:22:48,046 - INFO - Shard ID None has connected to Gateway (Session ID: bb8aa17f29fe34c2a890465932ea10e5).
+2024-07-22 22:22:53,830 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ф" is not found
+2024-07-22 22:23:36,659 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:23:36,660 - INFO - logging in using static token
+2024-07-22 22:23:38,354 - INFO - Shard ID None has connected to Gateway (Session ID: 0d69a80b7fb554035fce7f73d74d0ccd).
+2024-07-22 22:23:46,913 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:26:55,525 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:27:00,450 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:27:00,451 - INFO - logging in using static token
+2024-07-22 22:27:01,858 - INFO - Shard ID None has connected to Gateway (Session ID: 6864b8a8bec050836cd02f8cb49a091a).
+2024-07-22 22:27:08,098 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:27:41,082 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:27:41,083 - INFO - logging in using static token
+2024-07-22 22:27:42,415 - INFO - Shard ID None has connected to Gateway (Session ID: b74592f6589049f97e7c08d1a5c6d71e).
+2024-07-22 22:27:47,973 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "s" is not found
+2024-07-22 22:27:56,109 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+2024-07-22 22:28:12,691 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:28:12,692 - INFO - logging in using static token
+2024-07-22 22:28:14,248 - INFO - Shard ID None has connected to Gateway (Session ID: 722ec5afbb2a33d28140ff177722e172).
+2024-07-22 22:28:20,751 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hellp" is not found
+2024-07-22 22:28:26,925 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hello" is not found
+2024-07-22 22:29:29,311 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:29:29,312 - INFO - logging in using static token
+2024-07-22 22:29:30,784 - INFO - Shard ID None has connected to Gateway (Session ID: 8646268774ea86545a824617a888e874).
+2024-07-22 22:31:19,215 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:31:19,216 - INFO - logging in using static token
+2024-07-22 22:31:20,754 - INFO - Shard ID None has connected to Gateway (Session ID: da91cb739273882d3508237a87ab631a).
+2024-07-22 22:37:05,845 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:37:58,970 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:38:35,181 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:39:30,776 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:39:30,777 - INFO - logging in using static token
+2024-07-22 22:39:32,187 - INFO - Shard ID None has connected to Gateway (Session ID: 76f079e6e7e52b1403d33043518f1aab).
+2024-07-22 22:40:20,639 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:40:20,640 - INFO - logging in using static token
+2024-07-22 22:40:22,125 - INFO - Shard ID None has connected to Gateway (Session ID: b77f4073ada4a7134393d102310d299b).
+2024-07-22 22:47:18,168 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:47:18,169 - INFO - logging in using static token
+2024-07-22 22:47:19,652 - INFO - Shard ID None has connected to Gateway (Session ID: 6eb87db2a5bcaa4853adf6f2652241e3).
+2024-07-22 22:47:26,470 - ERROR - Ignoring exception in command info
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 34, in info
+    member = member or ctx.author
+             ^^^^^^
+UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:48:54,758 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:48:54,759 - INFO - logging in using static token
+2024-07-22 22:48:56,281 - INFO - Shard ID None has connected to Gateway (Session ID: 3e1d8ec05b8492fb1d985e82a7df0e7b).
+2024-07-22 22:49:07,379 - ERROR - Ignoring exception in command info
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 34, in info
+    if member is None:
+       ^^^^^^
+UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:49:38,496 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:49:38,497 - INFO - logging in using static token
+2024-07-22 22:49:39,951 - INFO - Shard ID None has connected to Gateway (Session ID: dedcd9373230be417649adf8eb0c8d8d).
+2024-07-22 22:49:45,631 - ERROR - Ignoring exception in command info
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 34, in info
+    if member is None:
+       ^^^^^^
+UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnboundLocalError: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:52:26,338 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:52:26,339 - INFO - logging in using static token
+2024-07-22 22:52:27,875 - INFO - Shard ID None has connected to Gateway (Session ID: 6c17637ffd934ceeae553453f1d5c0e7).
+2024-07-22 22:52:36,882 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:53:35,368 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:53:45,142 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:53:57,066 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:54:06,389 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:54:06,390 - INFO - logging in using static token
+2024-07-22 22:54:08,001 - INFO - Shard ID None has connected to Gateway (Session ID: 7f241a353616e60e21800baedcaff3c7).
+2024-07-22 22:54:21,921 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:54:29,308 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:54:37,521 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:54:42,166 - ERROR - Error in userinfo command: cannot access local variable 'member' where it is not associated with a value
+2024-07-22 22:55:09,759 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:55:09,760 - INFO - logging in using static token
+2024-07-22 22:55:11,171 - INFO - Shard ID None has connected to Gateway (Session ID: ab3e328222f45e411390798efc6d9e37).
+2024-07-22 22:55:17,733 - ERROR - Error in userinfo command: 'Member' object has no attribute 'avatar_url'
+2024-07-22 22:55:25,331 - ERROR - Error in userinfo command: 'Member' object has no attribute 'avatar_url'
+2024-07-22 22:55:50,182 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:55:50,182 - INFO - logging in using static token
+2024-07-22 22:55:51,725 - INFO - Shard ID None has connected to Gateway (Session ID: 980700aa10dcfbfdfac6f6cf0d61c353).
+2024-07-22 22:57:47,188 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 22:57:47,189 - INFO - logging in using static token
+2024-07-22 22:57:48,897 - INFO - Shard ID None has connected to Gateway (Session ID: 00c58e56d7cbed8c6e7e369f123a4db1).
+2024-07-22 22:58:33,270 - ERROR - Ignoring exception in command info
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 715, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1355, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 1237, in _actual_conversion
+    return await converter().convert(ctx, argument)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/converter.py", line 276, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "@s" not found.
+2024-07-22 23:27:11,853 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:27:11,854 - INFO - logging in using static token
+2024-07-22 23:27:13,245 - INFO - Shard ID None has connected to Gateway (Session ID: af49c0c727e5282898a871af15f13fa3).
+2024-07-22 23:28:09,896 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:28:09,897 - INFO - logging in using static token
+2024-07-22 23:28:11,312 - INFO - Shard ID None has connected to Gateway (Session ID: de67451668096318453ae1349236cfa6).
+2024-07-22 23:30:12,092 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:30:12,093 - INFO - logging in using static token
+2024-07-22 23:30:13,657 - INFO - Shard ID None has connected to Gateway (Session ID: d26b0590d294ed5e622d3afe08a34260).
+2024-07-22 23:42:12,470 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:42:12,472 - INFO - logging in using static token
+2024-07-22 23:42:14,129 - INFO - Shard ID None has connected to Gateway (Session ID: 99f1b5bfece97cb852d5f9badeede76f).
+2024-07-22 23:44:44,460 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:44:44,462 - INFO - logging in using static token
+2024-07-22 23:44:46,175 - INFO - Shard ID None has connected to Gateway (Session ID: 9248a1ddc4f2b1fcf16fb0c8845a0f71).
+2024-07-22 23:44:54,862 - ERROR - Ignoring exception in command creator
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 73, in creator
+    embed.add_field(name ="Написать", value=owner.allowed_mentions, inline=False)
+                                            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Member' object has no attribute 'allowed_mentions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'allowed_mentions'
+2024-07-22 23:45:46,106 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:45:46,106 - INFO - logging in using static token
+2024-07-22 23:45:47,718 - INFO - Shard ID None has connected to Gateway (Session ID: f0456fee79539a3953737338e73f509c).
+2024-07-22 23:45:54,050 - ERROR - Ignoring exception in command creator
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 73, in creator
+    embed.add_field(name ="Написать", value=owner.allowed_mentions, inline=False)
+                                            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Member' object has no attribute 'allowed_mentions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'allowed_mentions'
+2024-07-22 23:46:27,354 - ERROR - Ignoring exception in command creator
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 73, in creator
+    embed.add_field(name ="Написать", value=member.allowed_mentions, inline=False)
+                                            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Member' object has no attribute 'allowed_mentions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'allowed_mentions'
+2024-07-22 23:46:34,838 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:46:34,839 - INFO - logging in using static token
+2024-07-22 23:46:36,574 - INFO - Shard ID None has connected to Gateway (Session ID: 077761fa1051c70bf1748f0ebfe1f389).
+2024-07-22 23:46:43,395 - ERROR - Ignoring exception in command creator
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kreofox/Документы/python/python/bot.py", line 73, in creator
+    embed.add_field(name ="Написать", value=member.allowed_mentions, inline=False)
+                                            ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'allowed_mentions'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/bot.py", line 1350, in invoke
+    await ctx.command.invoke(ctx)
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/data/python/lib/python3.11/site-packages/discord/ext/commands/core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'allowed_mentions'
+2024-07-22 23:52:38,012 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-22 23:52:38,013 - INFO - logging in using static token
+2024-07-22 23:52:39,582 - INFO - Shard ID None has connected to Gateway (Session ID: 5a467826e5b5298a0d7ec536d8043b81).
+2024-07-23 00:00:46,148 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-23 00:00:46,150 - INFO - logging in using static token
+2024-07-23 00:00:47,724 - INFO - Shard ID None has connected to Gateway (Session ID: b82c93a8014d2959fde5bad6ad380806).
+2024-07-25 22:16:21,185 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:16:21,186 - INFO - logging in using static token
+2024-07-25 22:16:22,697 - INFO - Shard ID None has connected to Gateway (Session ID: ad2a8c6c4d8e49b196e8aa176231fe06).
+2024-07-25 22:18:11,092 - ERROR - Ignoring exception in on_member_join
+Traceback (most recent call last):
+  File "/var/data/python/lib/python3.11/site-packages/discord/client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/kreofox/Документы/python/python/roly.py", line 10, in on_member_join
+    await member.add_role(role)
+          ^^^^^^^^^^^^^^^
+AttributeError: 'Member' object has no attribute 'add_role'
+2024-07-25 22:20:16,649 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:20:16,650 - INFO - logging in using static token
+2024-07-25 22:20:18,189 - INFO - Shard ID None has connected to Gateway (Session ID: 4b0b98a2369b086574ca3499520fd1c8).
+2024-07-25 22:20:34,358 - INFO - Назначенная роль 'hhhh' на ari228
+2024-07-25 22:39:46,781 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:39:46,782 - INFO - logging in using static token
+2024-07-25 22:39:48,235 - INFO - Shard ID None has connected to Gateway (Session ID: d7120dbc149b043622092859ba26a274).
+2024-07-25 22:45:24,686 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:45:24,687 - INFO - logging in using static token
+2024-07-25 22:45:26,468 - INFO - Shard ID None has connected to Gateway (Session ID: 4008e3336e0a09a23701a5da3714a2ae).
+2024-07-25 22:47:46,693 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:47:46,694 - INFO - logging in using static token
+2024-07-25 22:47:48,425 - INFO - Shard ID None has connected to Gateway (Session ID: d47170c9f66b591750bf686560d74fe7).
+2024-07-25 22:49:45,352 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 22:49:45,353 - INFO - logging in using static token
+2024-07-25 22:49:46,906 - INFO - Shard ID None has connected to Gateway (Session ID: ac695d6410cea4fcc5c175a36253e929).
+2024-07-25 22:58:08,314 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 23:01:06,311 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-25 23:01:06,312 - INFO - logging in using static token
+2024-07-25 23:01:07,733 - INFO - Shard ID None has connected to Gateway (Session ID: 02b83e822e5162e42301eef13c93818d).
+2024-07-25 23:01:17,514 - ERROR - Произошла ошибка: The check functions for command info failed.
+2024-07-26 12:34:09,630 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-07-26 12:34:09,631 - INFO - logging in using static token
+2024-07-26 12:34:11,199 - INFO - Shard ID None has connected to Gateway (Session ID: b91805bef8df59c42933419940568801).
+2024-07-26 13:16:56,725 - INFO - logging in using static token
+2024-07-26 13:16:58,313 - INFO - Shard ID None has connected to Gateway (Session ID: 678e92e8cef57b0bb34ff426736ba1a5).
+2024-07-26 13:17:13,958 - ERROR - Произошла ошибка: url is a required argument that is missing.
+2024-07-26 13:17:59,017 - INFO - logging in using static token
+2024-07-26 13:18:00,531 - INFO - Shard ID None has connected to Gateway (Session ID: eec62b5784e7bde3f0e90ba6370a2ac5).
+2024-07-26 13:18:07,152 - ERROR - Произошла ошибка: url is a required argument that is missing.
+2024-07-26 13:18:13,076 - ERROR - Произошла ошибка: url is a required argument that is missing.
+2024-07-26 13:19:07,523 - INFO - Connecting to voice...
+2024-07-26 13:19:07,523 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 13:19:07,857 - INFO - Voice handshake complete. Endpoint found finland10062.discord.media
+2024-07-26 13:19:18,308 - ERROR - Произошла ошибка: Command raised an exception: DownloadError: [0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+2024-07-26 13:19:34,982 - ERROR - Произошла ошибка: url is a required argument that is missing.
+2024-07-26 13:19:57,716 - ERROR - Произошла ошибка: Command raised an exception: DownloadError: [0;31mERROR:[0m Unable to extract [0;34muploader id[0m; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+2024-07-26 13:23:59,358 - INFO - logging in using static token
+2024-07-26 13:24:00,967 - INFO - Shard ID None has connected to Gateway (Session ID: d5952b1d828788634d2e5e2636715ade).
+2024-07-26 13:24:15,200 - INFO - Connecting to voice...
+2024-07-26 13:24:15,200 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 13:24:15,541 - INFO - Voice handshake complete. Endpoint found finland10062.discord.media
+2024-07-26 13:24:57,480 - INFO - ffmpeg process 1133 has not terminated. Waiting to terminate...
+2024-07-26 13:24:57,482 - INFO - ffmpeg process 1133 should have terminated with a return code of -9.
+2024-07-26 13:25:01,118 - INFO - Disconnecting from voice normally, close code 1000.
+2024-07-26 13:25:01,228 - INFO - The voice handshake is being terminated for Channel ID 1119837868307783713 (Guild ID 1119837867313729637)
+2024-07-26 14:20:48,150 - INFO - logging in using static token
+2024-07-26 14:20:49,577 - INFO - Shard ID None has connected to Gateway (Session ID: 1f12dd7dcfd968542a0ebd2db30ae194).
+2024-07-26 14:22:05,566 - ERROR - Произошла ошибка: The check functions for command info failed.
+2024-07-26 14:28:23,687 - INFO - logging in using static token
+2024-07-26 14:28:25,122 - INFO - Shard ID None has connected to Gateway (Session ID: dec9be6ff055cfa2d47920f9d88e8854).
+2024-07-26 14:32:46,806 - INFO - logging in using static token
+2024-07-26 14:32:48,449 - INFO - Shard ID None has connected to Gateway (Session ID: 403a30127a9da75e05310b35afeb5549).
+2024-07-26 15:54:32,825 - INFO - logging in using static token
+2024-07-26 15:54:34,384 - INFO - Shard ID None has connected to Gateway (Session ID: 738a3191b5516f81a21a2d113eb10183).
+2024-07-26 15:57:01,445 - INFO - Connecting to voice...
+2024-07-26 15:57:01,445 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 15:57:01,788 - INFO - Voice handshake complete. Endpoint found finland10062.discord.media
+2024-07-26 15:57:10,352 - INFO - Disconnecting from voice normally, close code 1000.
+2024-07-26 15:57:10,468 - INFO - The voice handshake is being terminated for Channel ID 1119837868307783713 (Guild ID 1119837867313729637)
+2024-07-26 15:57:26,862 - ERROR - Произошла ошибка: The check functions for command join failed.
+2024-07-26 16:12:07,148 - INFO - Назначенная роль 'hhhh' на Emoji.gg
+2024-07-26 16:15:01,424 - INFO - Shard ID None has successfully RESUMED session 738a3191b5516f81a21a2d113eb10183.
+2024-07-26 17:29:28,350 - INFO - logging in using static token
+2024-07-26 17:29:29,758 - INFO - Shard ID None has connected to Gateway (Session ID: 1736665b91d992b5265f49501e5dc2c6).
+2024-07-26 17:42:23,070 - INFO - logging in using static token
+2024-07-26 17:42:24,659 - INFO - Shard ID None has connected to Gateway (Session ID: b715230e033e0629173e05db0f832871).
+2024-07-26 17:43:34,984 - ERROR - Произошла ошибка: role_name is a required argument that is missing.
+2024-07-26 18:18:20,079 - INFO - Shard ID None has successfully RESUMED session b715230e033e0629173e05db0f832871.
+2024-07-26 19:11:58,160 - INFO - Shard ID None has successfully RESUMED session b715230e033e0629173e05db0f832871.
+2024-07-26 20:05:41,910 - INFO - logging in using static token
+2024-07-26 20:05:43,798 - INFO - Shard ID None has connected to Gateway (Session ID: d40198e6a5b3d2d2973a9a533354b30a).
+2024-07-26 20:32:44,567 - INFO - Shard ID None has successfully RESUMED session d40198e6a5b3d2d2973a9a533354b30a.
+2024-07-26 20:33:25,590 - INFO - logging in using static token
+2024-07-26 20:33:27,150 - INFO - Shard ID None has connected to Gateway (Session ID: eb443c7ab5379e2ad8014999b9b79137).
+2024-07-26 20:33:38,135 - ERROR - Произошла ошибка: Command raised an exception: ValueError: too many values to unpack (expected 2)
+2024-07-26 20:34:12,567 - INFO - logging in using static token
+2024-07-26 20:34:14,024 - INFO - Shard ID None has connected to Gateway (Session ID: fcd42f899984eae9e7d2117fc30c58a8).
+2024-07-26 20:34:20,714 - ERROR - Произошла ошибка: Command raised an exception: ValueError: too many values to unpack (expected 2)
+2024-07-26 20:36:56,803 - ERROR - Произошла ошибка: The check functions for command join failed.
+2024-07-26 20:37:06,817 - ERROR - Произошла ошибка: The check functions for command join failed.
+2024-07-26 20:37:18,058 - INFO - Connecting to voice...
+2024-07-26 20:37:18,058 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 20:37:18,391 - INFO - Voice handshake complete. Endpoint found finland10037.discord.media
+2024-07-26 20:37:51,634 - INFO - logging in using static token
+2024-07-26 20:37:53,144 - INFO - Shard ID None has connected to Gateway (Session ID: d9769f55fe4223eeb0e9dd18a3223640).
+2024-07-26 20:38:00,999 - ERROR - Произошла ошибка: Command raised an exception: ValueError: too many values to unpack (expected 2)
+2024-07-26 20:38:17,142 - ERROR - Произошла ошибка: Command raised an exception: ValueError: too many values to unpack (expected 2)
+2024-07-26 20:38:23,311 - ERROR - Произошла ошибка: The check functions for command shop failed.
+2024-07-26 20:39:00,103 - INFO - logging in using static token
+2024-07-26 20:39:01,664 - INFO - Shard ID None has connected to Gateway (Session ID: a0eb649c13f4719bd97392c9c00c3ea8).
+2024-07-26 20:39:41,054 - ERROR - Произошла ошибка: Command raised an exception: ValueError: too many values to unpack (expected 2)
+2024-07-26 20:39:44,176 - ERROR - Произошла ошибка: The check functions for command join failed.
+2024-07-26 20:40:12,220 - INFO - Shard ID None has successfully RESUMED session a0eb649c13f4719bd97392c9c00c3ea8.
+2024-07-26 20:40:35,175 - ERROR - Произошла ошибка: The check functions for command join failed.
+2024-07-26 20:49:55,780 - INFO - logging in using static token
+2024-07-26 20:49:57,570 - INFO - Shard ID None has connected to Gateway (Session ID: 1baf12773adf5f140fe4b468debabb77).
+2024-07-26 20:50:06,001 - ERROR - Произошла ошибка: Command raised an exception: OperationalError: no such column: name
+2024-07-26 20:50:10,021 - INFO - Connecting to voice...
+2024-07-26 20:50:10,021 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 20:50:10,350 - INFO - Voice handshake complete. Endpoint found finland10037.discord.media
+2024-07-26 20:50:14,380 - INFO - Disconnected from voice by force... potentially reconnecting.
+2024-07-26 20:50:14,381 - INFO - Starting voice handshake... (connection attempt 2)
+2024-07-26 20:50:17,549 - ERROR - Произошла ошибка: Command raised an exception: OperationalError: no such column: name
+2024-07-26 20:51:00,887 - INFO - logging in using static token
+2024-07-26 20:51:02,373 - INFO - Shard ID None has connected to Gateway (Session ID: c3c3b14c28663f12de16ce6f8d0c9115).
+2024-07-26 20:51:10,477 - ERROR - Произошла ошибка: Command raised an exception: OperationalError: no such column: name
+2024-07-26 20:53:19,967 - INFO - logging in using static token
+2024-07-26 20:53:21,404 - INFO - Shard ID None has connected to Gateway (Session ID: cb04817647d4b471d1a663eb15b2fbe4).
+2024-07-26 20:53:31,314 - ERROR - Error in shop command: no such column: name
+2024-07-26 20:54:40,527 - INFO - logging in using static token
+2024-07-26 20:54:41,907 - INFO - Shard ID None has connected to Gateway (Session ID: fa1465989e4bd1c35dac0afd11d9b217).
+2024-07-26 20:54:48,544 - ERROR - Error in shop command: no such column: name
+2024-07-26 20:54:59,157 - INFO - logging in using static token
+2024-07-26 20:55:00,814 - INFO - Shard ID None has connected to Gateway (Session ID: 01d4fd9d9227e832f33f48aacc91d7e1).
+2024-07-26 20:55:07,111 - INFO - Queried roles: []
+2024-07-26 20:55:07,112 - INFO - Available roles: []
+2024-07-26 20:55:38,039 - INFO - Queried roles: [('hhh', 100)]
+2024-07-26 20:55:38,039 - INFO - Available roles: [('hhh', 100)]
+2024-07-26 20:55:49,877 - INFO - Connecting to voice...
+2024-07-26 20:55:49,877 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 20:55:50,221 - INFO - Voice handshake complete. Endpoint found finland10037.discord.media
+2024-07-26 20:56:44,779 - ERROR - Произошла ошибка: Command raised an exception: ClientException: Already connected to a voice channel.
+2024-07-26 20:59:47,532 - INFO - Disconnecting from voice normally, close code 1000.
+2024-07-26 20:59:47,540 - INFO - ffmpeg process 2986 has not terminated. Waiting to terminate...
+2024-07-26 20:59:47,543 - INFO - ffmpeg process 2986 should have terminated with a return code of -9.
+2024-07-26 20:59:47,635 - INFO - The voice handshake is being terminated for Channel ID 1119837868307783713 (Guild ID 1119837867313729637)
+2024-07-26 21:15:02,066 - INFO - logging in using static token
+2024-07-26 21:15:03,438 - INFO - Shard ID None has connected to Gateway (Session ID: 200ef86a6ccaf40299f759fad56f5870).
+2024-07-26 21:17:24,857 - INFO - logging in using static token
+2024-07-26 21:17:26,275 - INFO - Shard ID None has connected to Gateway (Session ID: 1511a8ff444dcea9c51ac4f270ff4bab).
+2024-07-26 21:18:34,125 - INFO - logging in using static token
+2024-07-26 21:18:35,607 - INFO - Shard ID None has connected to Gateway (Session ID: c329ec32ff97d32c1dbeaf2783eef866).
+2024-07-26 21:25:48,812 - INFO - Queried roles: [('hhh', 100)]
+2024-07-26 21:25:48,812 - INFO - Available roles: [('hhh', 100)]
+2024-07-26 21:27:11,668 - INFO - logging in using static token
+2024-07-26 21:27:13,188 - INFO - Shard ID None has connected to Gateway (Session ID: cf0ec8706816952cbda606aa89cc2ade).
+2024-07-26 21:28:31,279 - ERROR - Произошла ошибка: The check functions for command shop failed.
+2024-07-26 21:30:56,728 - INFO - logging in using static token
+2024-07-26 21:30:58,267 - INFO - Shard ID None has connected to Gateway (Session ID: e35173bce758a254cde0bb7edc959791).
+2024-07-26 21:50:37,419 - INFO - logging in using static token
+2024-07-26 21:50:39,081 - INFO - Shard ID None has connected to Gateway (Session ID: 9948b9dd50bc23fdecf22b8857b0a42b).
+2024-07-26 23:08:28,061 - INFO - logging in using static token
+2024-07-26 23:08:29,864 - INFO - Shard ID None has connected to Gateway (Session ID: 114e92ff953b17fdb2f797c48754130d).
+2024-07-26 23:08:46,811 - INFO - Connecting to voice...
+2024-07-26 23:08:46,811 - INFO - Starting voice handshake... (connection attempt 1)
+2024-07-26 23:08:47,158 - INFO - Voice handshake complete. Endpoint found finland10037.discord.media
+2024-07-26 23:09:24,047 - ERROR - Произошла ошибка: Command raised an exception: ClientException: Already playing audio.
+2024-07-26 23:09:24,378 - INFO - ffmpeg process 611 has not terminated. Waiting to terminate...
+2024-07-26 23:09:24,379 - INFO - ffmpeg process 611 should have terminated with a return code of -9.
+2024-07-26 23:09:39,973 - ERROR - Произошла ошибка: Command raised an exception: ClientException: Already playing audio.
+2024-07-26 23:09:40,277 - INFO - ffmpeg process 642 has not terminated. Waiting to terminate...
+2024-07-26 23:09:40,278 - INFO - ffmpeg process 642 should have terminated with a return code of -9.
+2024-07-26 23:09:48,383 - INFO - ffmpeg process 594 has not terminated. Waiting to terminate...
+2024-07-26 23:09:48,385 - INFO - ffmpeg process 594 should have terminated with a return code of -9.
+2024-07-26 23:10:42,526 - INFO - ffmpeg process 699 has not terminated. Waiting to terminate...
+2024-07-26 23:10:42,528 - INFO - ffmpeg process 699 should have terminated with a return code of -9.
+2024-07-27 00:13:51,586 - INFO - Disconnected from voice by force... potentially reconnecting.
+2024-07-27 00:13:51,586 - INFO - Starting voice handshake... (connection attempt 2)
+2024-07-27 00:14:51,609 - INFO - The voice handshake is being terminated for Channel ID 1119837868307783713 (Guild ID 1119837867313729637)
+2024-07-27 00:14:51,610 - INFO - Reconnect was unsuccessful, disconnecting from voice normally...
