@@ -34,3 +34,9 @@ level2 = id
 - token- [token bot](https://discord.com/developers)
 - channels -id channel 
 - level - id Roley
+
+```python 
+@is_in_allowed_channel
+@is_in_allowed_channel_admin
+```
+This method works checks.py.config.py you can put the channel id there. On which commands will work. Same as admin 
