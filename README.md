@@ -31,6 +31,6 @@ Channels_admin = id
 level1 = id
 level2 = id
 ```
-- token- token bot [token bot](https://discord.com/developers)
+- token- [token bot](https://discord.com/developers)
 - channels -id channel 
 - level - id Roley
