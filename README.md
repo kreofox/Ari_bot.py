@@ -40,3 +40,5 @@ level2 = id
 @is_in_allowed_channel_admin
 ```
 This method works checks.py.config.py you can put the channel id there. On which commands will work. Same as admin 
+
+[DISCORD](https://discord.gg/ahyS8TMrXU) Come to my server. 
